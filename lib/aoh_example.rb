@@ -13,6 +13,8 @@ def assembled_aoh
   my_array [
     DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G
   ]
+  
+  return my_array.sort 
 end
 
 def literal_aoh
